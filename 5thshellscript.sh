@@ -1,10 +1,10 @@
 #!/bin/bash
 
 echo "enter person1"
-read persone1
+read -s persone1
 
 echo "enter another persone2"
-read persone2
+read -s persone2
 
 #persone1=$1
 #persone2=$2
