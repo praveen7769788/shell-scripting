@@ -15,3 +15,5 @@ git branch -M main
 git remote add origin https://github.com/praveen7769788/shell-scripting.git
 git push -u origin main
  
+
+ git config --global credential.helper store
