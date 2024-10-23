@@ -3,9 +3,9 @@
 
 number=$1
 
-if [$number -ge 18]
+if [$number -gt 18]
 then
-echo "eleligibal for voting"
+ echo "eleligibal for voting"
 else
-echo "not eleligibal for voting"
+ echo "not eleligibal for voting"
 fi
