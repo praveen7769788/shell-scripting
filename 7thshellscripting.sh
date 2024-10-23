@@ -1,7 +1,7 @@
 #!/bin/bash
 
-no1=$num1
-no2=$num2
+no1=$1
+no2=$2
 
 sum=$(($no1+$no2))
 
